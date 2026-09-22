@@ -114,4 +114,4 @@ This project was developed as **Task 1 — To-Do List Application** for the CodS
 
 ## Author
 
-Sagar
+SAGAR
